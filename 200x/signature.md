@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Signature Project: Strategically Reading Randomized Controlled Trials
+title: Signature Project - Strategically Reading Randomized Controlled Trials
 
 ---
-<iframe src="https://drive.google.com/file/d/1p4KyTve39Y6XTSm1KSv5f8GfUqxdewWS/preview" width="640"></iframe>
+<iframe src="https://drive.google.com/file/d/1p4KyTve39Y6XTSm1KSv5f8GfUqxdewWS/preview" width="640" height="360"></iframe>
 
-<h3>TOPIC SELECTION</h3>
 **Topic/Goal of Instruction:**<BR>
 When published guidelines and point-of-care information resources such as UpToDate or DynaMed Plus do not have the answer to clinical questions, healthcare professionals turn to the journal literature. Randomized controlled trials (RCT) are considered the ideal type of study to determine, without bias, the benefit or harm of an intervention and are often sought as evidence-based, authoritative sources of information to answer questions about complicated clinical scenarios. However, healthcare professionals do not have time to read lengthy and complex documents.<BR><BR>
 The goal of this module is to prepare third-year medical students in their clinical clerkships for the situation laid out above. By the end of the unit, students will be able to look at an RCT, quickly locate key pieces of information about the study design, and use a tool called a critical appraisal worksheet to evaluate the evidence. Twenty minutes is a perfectly reasonable amount of time for this module, considering the goals are more to equip the audience with the tools to perform the task rather than to actually appraise evidence together (since I am not a medical subject expert, but a librarian). This is still an intellectual skill, though, because the information they locate will need to be interpreted and synthesized.<BR><BR>
