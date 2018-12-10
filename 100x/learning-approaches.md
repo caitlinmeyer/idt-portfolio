@@ -15,3 +15,6 @@ We would give them a clinical scenario written by their practicing health profes
 
 *Connections to learning theories:*
 I see a lot of andragogy here in that this setup respects their experience and autonomy, is immediately applicable to their careers, and relies on students for the learning experience instead of the instructor. There is also some constructivism in that previous sessions taught searching the literature and this session builds on that base of knowledge. Finally, as with any gamification learning experience, there is a little bit of behaviorism since we are expecting specific outputs for specific inputs. 
+
+To learn more: <BR>
+Thurab-Nkhosi, D., Williams, G., & Mason-Roberts, M. (2018). Achieving confidence in competencies through authentic assessment. Journal of Management Development, 37(8), 652-662. doi: 10.1108/JMD-12-2017-0413
