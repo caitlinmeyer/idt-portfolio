@@ -4,7 +4,7 @@ title: Comparing Learning Theories
 
 ---
 <a name="top"> </a>
-Soon, you'll see a table comparing the learning theories we discuss in class. For now, feel free to scroll down to learn about specific theories. 
+![learning theories table](https://caitlinmeyer.github.io/idt-portfolio/100x/docs/learning-table.png)
 
 ### <a name="behaviorism"></a>Behaviorism 
 *Background:* Behaviorism has its origins in psychology in the late 19th/early 20th century. Focusing on objective facts and behaviors as ways to discern meaning and understanding instead of trying to decipher the innerworkings of consciousness, it was a departure from dominant paradigm of the time. Watson and, later, Skinner are the big names tied to this theory. In thinking about behaviorism with regards to education, the instructor's goal is to foster certain behaviors in their students by providing the appropriate prompts that would elicit said behavior. This is accomplished with a lot of repetition, question and response type activities, and positive/negative feedback where needed. <BR><BR>
