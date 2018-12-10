@@ -8,12 +8,12 @@ title: Comparing Learning Theories
 
 Recommended readings: In addition to the classics by founding authors of these theories, I found these articles useful in writing the scenarios and reflections that follow.
 
-Al-Huneidi, A. M., & Schreurs, J. (2012). Constructivism Based Blended Learning in Higher Education. International Journal of Emerging Technologies in Learning, 7(1), 4-9. 
-Boghossian, P. (2006). Behaviorism, Constructivism, and Socratic Pedagogy. Educational Philosophy & Theory, 38(6), 713-722. doi: 10.1111/j.1469-5812.2006.00226.x
-Ertmer, P. A., & Newby, T. J. (2013). Behaviorism, Cognitivism, Constructivism: Comparing Critical Features From an Instructional Design Perspective. Performance Improvement Quarterly, 26(2), 43-71. doi: 10.1002/piq.21143
-Kop, R., & Hill, A. (2008). Connectivism: Learning theory of the future or vestige of the past? International Review of Research in Open & Distance Learning, 9(3), 1-13. 
-Nagowah, L., & Nagowah, S. (2009). A Reflection on the Dominant Learning Theories: Behaviourism, Cognitivism and Constructivism. International Journal of Learning, 16(2), 279-285. 
-Storey, V. A., & Wang, V. C. X. (2017). Critical Friends Protocol: Andragogy and Learning in a Graduate Classroom. Adult Learning, 28(3), 107-117. doi: 10.1177/1045159516674705
+Al-Huneidi, A. M., & Schreurs, J. (2012). Constructivism Based Blended Learning in Higher Education. International Journal of Emerging Technologies in Learning, 7(1), 4-9. <BR>
+Boghossian, P. (2006). Behaviorism, Constructivism, and Socratic Pedagogy. Educational Philosophy & Theory, 38(6), 713-722. doi: 10.1111/j.1469-5812.2006.00226.x<BR>
+Ertmer, P. A., & Newby, T. J. (2013). Behaviorism, Cognitivism, Constructivism: Comparing Critical Features From an Instructional Design Perspective. Performance Improvement Quarterly, 26(2), 43-71. doi: 10.1002/piq.21143<BR>
+Kop, R., & Hill, A. (2008). Connectivism: Learning theory of the future or vestige of the past? International Review of Research in Open & Distance Learning, 9(3), 1-13. <BR>
+Nagowah, L., & Nagowah, S. (2009). A Reflection on the Dominant Learning Theories: Behaviourism, Cognitivism and Constructivism. International Journal of Learning, 16(2), 279-285. <BR>
+Storey, V. A., & Wang, V. C. X. (2017). Critical Friends Protocol: Andragogy and Learning in a Graduate Classroom. Adult Learning, 28(3), 107-117. doi: 10.1177/1045159516674705<BR>
 
 
 ### <a name="behaviorism"></a>Behaviorism 
