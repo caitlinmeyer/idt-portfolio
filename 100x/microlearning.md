@@ -15,3 +15,5 @@ Throughout the time I spent learning how to use this tool, there were a couple o
 Though behaviorism had a hand here, as I think it does with a lot of computer learning, constructivism and andragogy were ultimately the big learning theories present. 
 
 My experience learning this tool was self-guided. In line with constructivist thought, my ease in learning this tool is due to making connections between disparate skills I already had and applying them in a new combined context. I've used content management systems like WordPress before, and I've done some light coding before. The combination of which, experimenting on the H5P platform, guided my learning. 
+
+Andragogy, of course, also takes prior knowledge into consideration. I have skills in related tools that make learning this tool easier than it might be for others. I'm also an intrinsically motivated learner in this context, since I got to pick the tool that I learned, and am even more motivated since the mastering of this tool will immediately impact my work for the better! 
