@@ -26,7 +26,16 @@ Peruse the annotated images below to learn more about the common components of a
 
 ### Critical appraisal
 
-Conduct high-level screening evaluatino of the paper's relevance 
+Before investing the time in reading the entire RCT report, the first stage of critical appraisal is a **high level screening evaluation** of the paper. Ask yourself: 
+1. Does the study content match the clinical question? Consider your PICO.<BR>
+2. Is the study design appropriate for your clinical question type? Consult the table below: 
+  
+| *Question type | Study type*                                     |
+|---------------|--------------------------------------------------|
+| Diagnosis     | prospective, blind comparison to a gold standard |
+| Therapy       | randomized controlled trial > cohort study       |
+| Prognosis     | cohort study > case control > case series        |
+| Harm/Etiology | cohort study > case control > case series        |
 
 (text)
 
