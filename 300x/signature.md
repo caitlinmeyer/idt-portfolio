@@ -4,6 +4,10 @@ title: Signature Assignment
 
 ---
 
+![strategically reading RCTs](https://caitlinmeyer.github.io/idt-portfolio/300x/docs/RCT-header.png)
+
+*Digital media checklist reflections: This header image modifies an image from Pexels in Illustrator to title the module. It has alt text, is within our branding, and is easy to read.*
+
 ### Overview
 When published guidelines and point-of-care information resources such as UpToDate or DynaMed Plus do not have the answer to clinical questions, healthcare professionals turn to the journal literature. Randomized controlled trials (RCT) are considered the ideal type of study to determine, without bias, the benefit or harm of an intervention and are often sought as evidence-based, authoritative sources of information to answer questions about complicated clinical scenarios. However, healthcare professionals do not have time to read lengthy and complex documents.
 
