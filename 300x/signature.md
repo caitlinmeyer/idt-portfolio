@@ -43,7 +43,8 @@ Next, you'll collect information from the report to assess the validity of the s
 
 ![critical appraisal image](https://caitlinmeyer.github.io/idt-portfolio/300x/docs/CA-what-where.png)
 
-Determine the treatment effect and precision of treatment effect
+After you gather this information, it's time to calculate the number needed to treat. For easy to understand instructions on calculating experimental event rate, experimental control rate, absolute risk reduction, and, finally, number needed to treat, check out this great video from [Sketchy EBM](https://sketchyebm.com): 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SdtNJeB2i60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (OERs)
 
