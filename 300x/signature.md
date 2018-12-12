@@ -16,7 +16,7 @@ Before jumping into reading, it's a good idea to know exactly what you're lookin
 
 ### Now that you have a question
 What exactly *is* an RCT? Why are they so important? Listen to this brief podcast for a little historical context: 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/537908547&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="20%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/537908547&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ### Anatomy of an RCT
 Peruse the annotated digital document below to learn more about the common components of an RCT and see them in context.
