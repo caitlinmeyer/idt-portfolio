@@ -41,7 +41,7 @@ Before investing the time in reading the entire RCT report, the first stage of c
 
 Next, you'll collect information from the report to assess the validity of the study design and execution. The graphic below will tell you what you're looking for and where to find it.
 
-![critical appraisal image](https://caitlinmeyer.github.io/CA-what-where.png)
+![critical appraisal image](https://caitlinmeyer.github.io/idt-portfolio/300x/docs/CA-what-where.png)
 
 Determine the treatment effect and precision of treatment effect
 
