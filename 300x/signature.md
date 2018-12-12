@@ -30,7 +30,7 @@ Before investing the time in reading the entire RCT report, the first stage of c
 1. Does the study content match the clinical question? Consider your PICO.<BR>
 2. Is the study design appropriate for your clinical question type? Consult the table below: 
   
-| *Question type | Study type*                                     |
+| Question type | Study type                                    |
 |---------------|--------------------------------------------------|
 | Diagnosis     | prospective, blind comparison to a gold standard |
 | Therapy       | randomized controlled trial > cohort study       |
