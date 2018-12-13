@@ -52,14 +52,11 @@ Next, you'll collect information from the report to assess the validity of the s
 
 After you gather this information, it's time to calculate the number needed to treat. For easy to understand instructions on calculating experimental event rate, experimental control rate, absolute risk reduction, and, finally, number needed to treat, check out this great video from [Sketchy EBM](https://sketchyebm.com): 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SdtNJeB2i60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><BR>
+  *Digital media checklist reflections: This video is great! It presents the content in an understandable and clear way and is honestly better than what I've seen in person. It doesn't have an assessment piece, but one could be very easily attached. The audio is clear and the licensing allows embedding with credit.*<BR>
 
-Now that you're familiar with the formulas required to calculate NNT, try looking at a study and using [this calculator](https://clincalc.com/Stats/NNT.aspx) to make the calculations.
+Now that you're familiar with the formulas required to calculate NNT, try looking at a study and using [this calculator](https://clincalc.com/Stats/NNT.aspx) to make the calculations.<BR>
 
 *Digital media checklist reflections: Though not a typical OER, this calculator has a lot of great information on how the calculations work and some illustrative examples to reiterate the points make in the video above. I think the students' chance to try out some numbers by interacting this page is a pedagogically worthwhile exercise. Running through the checklist, this page acts as a mini-self assessment, which is nice, is accessible according to WAVE, and is intuitive and accurate. Definitely checks all the boxes.*
-
-*Digital media checklist reflections: This video is great! It presents the content in an understandable and clear way and is honestly better than what I've seen in person. It doesn't have an assessment piece, but one could be very easily attached. The audio is clear and the licensing allows embedding with credit.*
-
-
 
 ### Checking your knowledge
 This [interactive module](https://rise.articulate.com/share/7fJwYn-q5Ed9IU8dLd54Q-BrwUqlrS3C) has some review information as well as a quiz to test your knowledge.
