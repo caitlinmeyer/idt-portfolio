@@ -63,3 +63,6 @@ This [interactive module](https://rise.articulate.com/share/7fJwYn-q5Ed9IU8dLd54
 
 *Digital media checklist reflections: This interface is clean and intuitive, based on WAVE Web Accessibility Tool it passes, and the content is correct. If I were to really implement this tool into my workflow, I would want to rebrand it to be more in line with our color scheme and patron expectations.*
 
+### License information
+Everything on this page made by me (everything except the Sketchy EBM video and the NNT calculator) have a CC-BY-NC license. Thanks!
+
